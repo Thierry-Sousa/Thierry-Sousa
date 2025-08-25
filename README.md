@@ -1,10 +1,9 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e aprendendo programação.
-- 🎓 Estudando {Análise e Desenvolvimento de Sistemas} na {Cruzeiro do Sul}.
-- 🌱 Aprendendo mais sobre {Lógica de Programação, Phyton, C, etc}.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
+- 🌱 Aprendendo mais sobre Lógica de Programação, Phyton, C, etc.
 
 
 **DevOps**
@@ -15,12 +14,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-<br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
